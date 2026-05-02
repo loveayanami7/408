@@ -450,5 +450,22 @@
         "defaultCollapsed": false
       }
     ]
-  }
+  },
+  "pomodoroState": {
+    "isRunning": true,
+    "timeRemaining": 1500,
+    "currentSession": {
+      "id": "1777686321757",
+      "startTime": "2026-05-02T09:45:21.757+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-05-02T09:45:21.757+08:00"
+        }
+      ]
+    }
+  },
+  "lastPomodoroDate": "2026-05-01"
 }
