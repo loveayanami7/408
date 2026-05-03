@@ -452,20 +452,9 @@
     ]
   },
   "pomodoroState": {
-    "isRunning": true,
+    "isRunning": false,
     "timeRemaining": 1500,
-    "currentSession": {
-      "id": "1777707488654",
-      "startTime": "2026-05-02T15:38:08.654+08:00",
-      "plannedDuration": 25,
-      "type": "work",
-      "completed": false,
-      "activePeriods": [
-        {
-          "startTime": "2026-05-02T15:38:08.654+08:00"
-        }
-      ]
-    }
+    "nextSessionType": "work"
   },
   "lastPomodoroDate": "2026-05-01",
   "pomodoroHistory": [
@@ -550,6 +539,34 @@
         {
           "startTime": "2026-05-02T11:44:39.635+08:00",
           "endTime": "2026-05-02T11:49:39.658+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1777707488654",
+      "startTime": "2026-05-02T15:38:08.654+08:00",
+      "endTime": "2026-05-02T16:03:08.675+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-05-02T15:38:08.654+08:00",
+          "endTime": "2026-05-02T16:03:08.675+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1777708989789",
+      "startTime": "2026-05-02T16:03:09.789+08:00",
+      "endTime": "2026-05-02T16:18:09.814+08:00",
+      "plannedDuration": 15,
+      "type": "long-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-05-02T16:03:09.789+08:00",
+          "endTime": "2026-05-02T16:18:09.814+08:00"
         }
       ]
     }
