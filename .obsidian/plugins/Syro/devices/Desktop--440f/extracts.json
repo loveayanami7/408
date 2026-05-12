@@ -1,275 +1,173 @@
 {
   "version": 1,
-  "nextItemId": 33,
+  "nextItemId": 38,
   "items": {
-    "ir_mp2dba5w_yzwb45": {
-      "id": 22,
-      "uuid": "ir_mp2dba5w_yzwb45",
+    "ir_mp2li5ii_z8s2r3": {
+      "id": 33,
+      "uuid": "ir_mp2li5ii_z8s2r3",
       "aliases": [],
       "sourcePath": "计算机组成原理/指令与CPU.md",
       "sourceAnchor": {
-        "start": 0,
-        "end": 121,
-        "innerStart": 0,
-        "innerEnd": 121,
-        "startLine": 0,
-        "endLine": 6,
-        "contentHash": "1a213ec840bde7",
+        "start": 20,
+        "end": 839,
+        "innerStart": 20,
+        "innerEnd": 839,
+        "startLine": 2,
+        "endLine": 35,
+        "contentHash": "13c5b1585c10fd",
         "ordinal": 0,
-        "sourceLength": 1394
+        "sourceLength": 1947
       },
-      "rawMarkdown": "## ISA",
+      "rawMarkdown": "## 一、 指令系统 (Instruction System)",
       "memo": "",
       "deckName": "计算机组成原理/指令与CPU",
       "sourceMode": "auto-slice",
       "sliceRule": "heading",
-      "autoSliceKey": "heading:2:ISA:0",
-      "priority": 5,
-      "nextReview": 1778748487985,
-      "timesReviewed": 1,
-      "timesCorrect": 1,
-      "errorStreak": 0,
-      "stage": "active",
-      "createdAt": 1778574462260,
-      "updatedAt": 1778587853235,
-      "data": {
-        "currentInterval": 2
-      }
-    },
-    "ir_mp2dba5w_aywazf": {
-      "id": 23,
-      "uuid": "ir_mp2dba5w_aywazf",
-      "aliases": [],
-      "sourcePath": "计算机组成原理/指令与CPU.md",
-      "sourceAnchor": {
-        "start": 121,
-        "end": 190,
-        "innerStart": 121,
-        "innerEnd": 190,
-        "startLine": 6,
-        "endLine": 15,
-        "contentHash": "14404c3578f26b",
-        "ordinal": 1,
-        "sourceLength": 1394
-      },
-      "rawMarkdown": "## 指令格式",
-      "memo": "",
-      "deckName": "计算机组成原理/指令与CPU",
-      "sourceMode": "auto-slice",
-      "sliceRule": "heading",
-      "autoSliceKey": "heading:2:指令格式:0",
-      "priority": 5,
-      "nextReview": 1778748489451,
-      "timesReviewed": 1,
-      "timesCorrect": 1,
-      "errorStreak": 0,
-      "stage": "active",
-      "createdAt": 1778574462260,
-      "updatedAt": 1778587853235,
-      "data": {
-        "currentInterval": 2
-      }
-    },
-    "ir_mp2dba5w_l2v22t": {
-      "id": 24,
-      "uuid": "ir_mp2dba5w_l2v22t",
-      "aliases": [],
-      "sourcePath": "计算机组成原理/指令与CPU.md",
-      "sourceAnchor": {
-        "start": 190,
-        "end": 199,
-        "innerStart": 190,
-        "innerEnd": 199,
-        "startLine": 15,
-        "endLine": 16,
-        "contentHash": "9c96be12581e9",
-        "ordinal": 2,
-        "sourceLength": 1394
-      },
-      "rawMarkdown": "## 定长操作码",
-      "memo": "",
-      "deckName": "计算机组成原理/指令与CPU",
-      "sourceMode": "auto-slice",
-      "sliceRule": "heading",
-      "autoSliceKey": "heading:2:定长操作码:0",
-      "priority": 5,
-      "nextReview": 1778748490869,
-      "timesReviewed": 1,
-      "timesCorrect": 1,
-      "errorStreak": 0,
-      "stage": "active",
-      "createdAt": 1778574462260,
-      "updatedAt": 1778587853235,
-      "data": {
-        "currentInterval": 2
-      }
-    },
-    "ir_mp2dba5w_qn2nzh": {
-      "id": 25,
-      "uuid": "ir_mp2dba5w_qn2nzh",
-      "aliases": [],
-      "sourcePath": "计算机组成原理/指令与CPU.md",
-      "sourceAnchor": {
-        "start": 199,
-        "end": 260,
-        "innerStart": 199,
-        "innerEnd": 260,
-        "startLine": 16,
-        "endLine": 20,
-        "contentHash": "b07a7264dd658",
-        "ordinal": 3,
-        "sourceLength": 1394
-      },
-      "rawMarkdown": "## 扩展操作码",
-      "memo": "",
-      "deckName": "计算机组成原理/指令与CPU",
-      "sourceMode": "auto-slice",
-      "sliceRule": "heading",
-      "autoSliceKey": "heading:2:扩展操作码:0",
-      "priority": 5,
-      "nextReview": 1778748491652,
-      "timesReviewed": 1,
-      "timesCorrect": 1,
-      "errorStreak": 0,
-      "stage": "active",
-      "createdAt": 1778574462260,
-      "updatedAt": 1778587853235,
-      "data": {
-        "currentInterval": 2
-      }
-    },
-    "ir_mp2dba5w_1i8hay": {
-      "id": 26,
-      "uuid": "ir_mp2dba5w_1i8hay",
-      "aliases": [],
-      "sourcePath": "计算机组成原理/指令与CPU.md",
-      "sourceAnchor": {
-        "start": 260,
-        "end": 812,
-        "innerStart": 260,
-        "innerEnd": 812,
-        "startLine": 20,
-        "endLine": 53,
-        "contentHash": "16dc779eafc14",
-        "ordinal": 4,
-        "sourceLength": 1394
-      },
-      "rawMarkdown": "## 指令寻址方式",
-      "memo": "",
-      "deckName": "计算机组成原理/指令与CPU",
-      "sourceMode": "auto-slice",
-      "sliceRule": "heading",
-      "autoSliceKey": "heading:2:指令寻址方式:0",
-      "priority": 5,
-      "nextReview": 1778748503368,
-      "timesReviewed": 1,
-      "timesCorrect": 1,
-      "errorStreak": 0,
-      "stage": "active",
-      "createdAt": 1778574462260,
-      "updatedAt": 1778587853235,
-      "data": {
-        "currentInterval": 2
-      }
-    },
-    "ir_mp2dba5w_b705vk": {
-      "id": 27,
-      "uuid": "ir_mp2dba5w_b705vk",
-      "aliases": [],
-      "sourcePath": "计算机组成原理/指令与CPU.md",
-      "sourceAnchor": {
-        "start": 812,
-        "end": 1371,
-        "innerStart": 812,
-        "innerEnd": 1371,
-        "startLine": 53,
-        "endLine": 79,
-        "contentHash": "ed26915801b9d",
-        "ordinal": 5,
-        "sourceLength": 1394
-      },
-      "rawMarkdown": "## 汇编",
-      "memo": "",
-      "deckName": "计算机组成原理/指令与CPU",
-      "sourceMode": "auto-slice",
-      "sliceRule": "heading",
-      "autoSliceKey": "heading:2:汇编:0",
-      "priority": 5,
-      "nextReview": 1778748505001,
-      "timesReviewed": 1,
-      "timesCorrect": 1,
-      "errorStreak": 0,
-      "stage": "active",
-      "createdAt": 1778574462260,
-      "updatedAt": 1778587853235,
-      "data": {
-        "currentInterval": 2
-      }
-    },
-    "ir_mp2dba5w_iez51p": {
-      "id": 28,
-      "uuid": "ir_mp2dba5w_iez51p",
-      "aliases": [],
-      "sourcePath": "计算机组成原理/指令与CPU.md",
-      "sourceAnchor": {
-        "start": 1380,
-        "end": 1394,
-        "innerStart": 1380,
-        "innerEnd": 1394,
-        "startLine": 81,
-        "endLine": 83,
-        "contentHash": "11f6200ed70cb2",
-        "ordinal": 7,
-        "sourceLength": 1394
-      },
-      "rawMarkdown": "## CISC和RISC",
-      "memo": "",
-      "deckName": "计算机组成原理/指令与CPU",
-      "sourceMode": "auto-slice",
-      "sliceRule": "heading",
-      "autoSliceKey": "heading:2:CISC和RISC:0",
-      "priority": 5,
-      "nextReview": 1778748505551,
-      "timesReviewed": 1,
-      "timesCorrect": 1,
-      "errorStreak": 0,
-      "stage": "active",
-      "createdAt": 1778574462260,
-      "updatedAt": 1778587853235,
-      "data": {
-        "currentInterval": 2
-      }
-    },
-    "ir_mp2la7jf_pcxm1t": {
-      "id": 32,
-      "uuid": "ir_mp2la7jf_pcxm1t",
-      "aliases": [],
-      "sourcePath": "计算机组成原理/指令与CPU.md",
-      "sourceAnchor": {
-        "start": 1371,
-        "end": 1380,
-        "innerStart": 1371,
-        "innerEnd": 1380,
-        "startLine": 79,
-        "endLine": 81,
-        "contentHash": "17764d54e878f",
-        "ordinal": 6,
-        "sourceLength": 1394
-      },
-      "rawMarkdown": "## 过程调用",
-      "memo": "",
-      "deckName": "计算机组成原理/指令与CPU",
-      "sourceMode": "auto-slice",
-      "sliceRule": "heading",
-      "autoSliceKey": "heading:2:过程调用:0",
+      "autoSliceKey": "heading:2:指令与 CPU：核心考点复习指南/一、 指令系统 (Instruction System):0",
       "priority": 5,
       "nextReview": 0,
       "timesReviewed": 0,
       "timesCorrect": 0,
       "errorStreak": 0,
       "stage": "active",
-      "createdAt": 1778587849131,
-      "updatedAt": 1778587853235,
+      "createdAt": 1778588219754,
+      "updatedAt": 1778588219754,
+      "data": {
+        "currentInterval": 1
+      }
+    },
+    "ir_mp2li5ij_wmemkj": {
+      "id": 34,
+      "uuid": "ir_mp2li5ij_wmemkj",
+      "aliases": [],
+      "sourcePath": "计算机组成原理/指令与CPU.md",
+      "sourceAnchor": {
+        "start": 839,
+        "end": 1143,
+        "innerStart": 839,
+        "innerEnd": 1143,
+        "startLine": 35,
+        "endLine": 48,
+        "contentHash": "96ad5d402e584",
+        "ordinal": 1,
+        "sourceLength": 1947
+      },
+      "rawMarkdown": "## 二、 CPU 的功能与结构",
+      "memo": "",
+      "deckName": "计算机组成原理/指令与CPU",
+      "sourceMode": "auto-slice",
+      "sliceRule": "heading",
+      "autoSliceKey": "heading:2:指令与 CPU：核心考点复习指南/二、 CPU 的功能与结构:0",
+      "priority": 5,
+      "nextReview": 0,
+      "timesReviewed": 0,
+      "timesCorrect": 0,
+      "errorStreak": 0,
+      "stage": "active",
+      "createdAt": 1778588219754,
+      "updatedAt": 1778588219754,
+      "data": {
+        "currentInterval": 1
+      }
+    },
+    "ir_mp2li5ij_g393zx": {
+      "id": 35,
+      "uuid": "ir_mp2li5ij_g393zx",
+      "aliases": [],
+      "sourcePath": "计算机组成原理/指令与CPU.md",
+      "sourceAnchor": {
+        "start": 1143,
+        "end": 1377,
+        "innerStart": 1143,
+        "innerEnd": 1377,
+        "startLine": 48,
+        "endLine": 61,
+        "contentHash": "1d9418289ff68",
+        "ordinal": 2,
+        "sourceLength": 1947
+      },
+      "rawMarkdown": "## 三、 指令执行过程",
+      "memo": "",
+      "deckName": "计算机组成原理/指令与CPU",
+      "sourceMode": "auto-slice",
+      "sliceRule": "heading",
+      "autoSliceKey": "heading:2:指令与 CPU：核心考点复习指南/三、 指令执行过程:0",
+      "priority": 5,
+      "nextReview": 0,
+      "timesReviewed": 0,
+      "timesCorrect": 0,
+      "errorStreak": 0,
+      "stage": "active",
+      "createdAt": 1778588219754,
+      "updatedAt": 1778588219754,
+      "data": {
+        "currentInterval": 1
+      }
+    },
+    "ir_mp2li5ij_0junam": {
+      "id": 36,
+      "uuid": "ir_mp2li5ij_0junam",
+      "aliases": [],
+      "sourcePath": "计算机组成原理/指令与CPU.md",
+      "sourceAnchor": {
+        "start": 1377,
+        "end": 1706,
+        "innerStart": 1377,
+        "innerEnd": 1706,
+        "startLine": 61,
+        "endLine": 75,
+        "contentHash": "1b037facd2b3bb",
+        "ordinal": 3,
+        "sourceLength": 1947
+      },
+      "rawMarkdown": "## 四、 指令流水线 (Pipeline) - 计算大题常客",
+      "memo": "",
+      "deckName": "计算机组成原理/指令与CPU",
+      "sourceMode": "auto-slice",
+      "sliceRule": "heading",
+      "autoSliceKey": "heading:2:指令与 CPU：核心考点复习指南/四、 指令流水线 (Pipeline) - 计算大题常客:0",
+      "priority": 5,
+      "nextReview": 0,
+      "timesReviewed": 0,
+      "timesCorrect": 0,
+      "errorStreak": 0,
+      "stage": "active",
+      "createdAt": 1778588219754,
+      "updatedAt": 1778588219754,
+      "data": {
+        "currentInterval": 1
+      }
+    },
+    "ir_mp2li5ij_hdswyn": {
+      "id": 37,
+      "uuid": "ir_mp2li5ij_hdswyn",
+      "aliases": [],
+      "sourcePath": "计算机组成原理/指令与CPU.md",
+      "sourceAnchor": {
+        "start": 1706,
+        "end": 1947,
+        "innerStart": 1706,
+        "innerEnd": 1947,
+        "startLine": 75,
+        "endLine": 85,
+        "contentHash": "3e032038456dd",
+        "ordinal": 4,
+        "sourceLength": 1947
+      },
+      "rawMarkdown": "## 五、 多处理器与并行性",
+      "memo": "",
+      "deckName": "计算机组成原理/指令与CPU",
+      "sourceMode": "auto-slice",
+      "sliceRule": "heading",
+      "autoSliceKey": "heading:2:指令与 CPU：核心考点复习指南/五、 多处理器与并行性:0",
+      "priority": 5,
+      "nextReview": 0,
+      "timesReviewed": 0,
+      "timesCorrect": 0,
+      "errorStreak": 0,
+      "stage": "active",
+      "createdAt": 1778588219754,
+      "updatedAt": 1778588219754,
       "data": {
         "currentInterval": 1
       }
@@ -409,44 +307,44 @@
       "pathHint": "计算机组成原理/指令与CPU.md"
     },
     "ir_mp2dba5w_yzwb45": {
-      "updatedAt": "2026-05-12T12:10:53.235Z",
-      "deleted": false,
+      "updatedAt": "2026-05-12T12:16:59.755Z",
+      "deleted": true,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/指令与CPU.md"
     },
     "ir_mp2dba5w_aywazf": {
-      "updatedAt": "2026-05-12T12:10:53.236Z",
-      "deleted": false,
+      "updatedAt": "2026-05-12T12:16:59.755Z",
+      "deleted": true,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/指令与CPU.md"
     },
     "ir_mp2dba5w_l2v22t": {
-      "updatedAt": "2026-05-12T12:10:53.236Z",
-      "deleted": false,
+      "updatedAt": "2026-05-12T12:16:59.755Z",
+      "deleted": true,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/指令与CPU.md"
     },
     "ir_mp2dba5w_qn2nzh": {
-      "updatedAt": "2026-05-12T12:10:53.236Z",
-      "deleted": false,
+      "updatedAt": "2026-05-12T12:16:59.755Z",
+      "deleted": true,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/指令与CPU.md"
     },
     "ir_mp2dba5w_1i8hay": {
-      "updatedAt": "2026-05-12T12:10:53.236Z",
-      "deleted": false,
+      "updatedAt": "2026-05-12T12:16:59.755Z",
+      "deleted": true,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/指令与CPU.md"
     },
     "ir_mp2dba5w_b705vk": {
-      "updatedAt": "2026-05-12T12:10:53.236Z",
-      "deleted": false,
+      "updatedAt": "2026-05-12T12:16:59.755Z",
+      "deleted": true,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/指令与CPU.md"
     },
     "ir_mp2dba5w_iez51p": {
-      "updatedAt": "2026-05-12T12:10:53.236Z",
-      "deleted": false,
+      "updatedAt": "2026-05-12T12:16:59.755Z",
+      "deleted": true,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/指令与CPU.md"
     },
@@ -469,7 +367,37 @@
       "pathHint": "计算机组成原理/指令与CPU.md"
     },
     "ir_mp2la7jf_pcxm1t": {
-      "updatedAt": "2026-05-12T12:10:53.236Z",
+      "updatedAt": "2026-05-12T12:16:59.755Z",
+      "deleted": true,
+      "entityType": "extract-item",
+      "pathHint": "计算机组成原理/指令与CPU.md"
+    },
+    "ir_mp2li5ii_z8s2r3": {
+      "updatedAt": "2026-05-12T12:16:59.755Z",
+      "deleted": false,
+      "entityType": "extract-item",
+      "pathHint": "计算机组成原理/指令与CPU.md"
+    },
+    "ir_mp2li5ij_wmemkj": {
+      "updatedAt": "2026-05-12T12:16:59.755Z",
+      "deleted": false,
+      "entityType": "extract-item",
+      "pathHint": "计算机组成原理/指令与CPU.md"
+    },
+    "ir_mp2li5ij_g393zx": {
+      "updatedAt": "2026-05-12T12:16:59.755Z",
+      "deleted": false,
+      "entityType": "extract-item",
+      "pathHint": "计算机组成原理/指令与CPU.md"
+    },
+    "ir_mp2li5ij_0junam": {
+      "updatedAt": "2026-05-12T12:16:59.755Z",
+      "deleted": false,
+      "entityType": "extract-item",
+      "pathHint": "计算机组成原理/指令与CPU.md"
+    },
+    "ir_mp2li5ij_hdswyn": {
+      "updatedAt": "2026-05-12T12:16:59.755Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/指令与CPU.md"
