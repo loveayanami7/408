@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "schemaVersion": "0.0.12",
+  "migrations": {
+    "syro012": {
+      "completedAt": "2026-05-12T08:09:53.513Z",
+      "sourceVersion": "0.0.11"
+    }
+  }
+}
