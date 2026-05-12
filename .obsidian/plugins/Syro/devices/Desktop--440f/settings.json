@@ -64,7 +64,25 @@
     "enableExtracts": true,
     "maxNewExtractsPerDay": 10,
     "maxExtractReviewsPerDay": 50,
-    "autoExtractRules": {},
+    "autoExtractRules": {
+      "计算机组成原理/指令与CPU.md": {
+        "sourcePath": "计算机组成原理/指令与CPU.md",
+        "rule": "heading",
+        "enabled": true,
+        "createdAt": 1778573899501,
+        "updatedAt": 1778573899501,
+        "headingLevels": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "allHeadingLevels": true,
+        "headingLevel": 1
+      }
+    },
     "weightedMultiplierSettings": {
       "baseEase": 250,
       "impMin": 1,
@@ -128,5 +146,7 @@
     "timelineAutoCommitReviewSelection": true,
     "timelineEnableDurationPrefixSyntax": true
   },
-  "updatedAtByField": {}
+  "updatedAtByField": {
+    "autoExtractRules": "2026-05-12T08:18:19.504Z"
+  }
 }

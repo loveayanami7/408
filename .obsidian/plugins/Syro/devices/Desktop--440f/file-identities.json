@@ -10,6 +10,16 @@
         "i_mp2codiv_rezlib"
       ],
       "deleted": false
+    },
+    "file-897ed26a": {
+      "uuid": "file-897ed26a",
+      "createdAt": "2026-05-12T08:18:11.392Z",
+      "updatedAt": "2026-05-12T08:18:11.392Z",
+      "path": "计算机组成原理/指令与CPU.md",
+      "aliases": [
+        "i_mp2cz1of_7psvgl"
+      ],
+      "deleted": false
     }
   },
   "syncEntities": {}
