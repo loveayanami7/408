@@ -25,15 +25,15 @@
       "sliceRule": "heading",
       "autoSliceKey": "heading:2:ISA:0",
       "priority": 5,
-      "nextReview": 0,
-      "timesReviewed": 0,
-      "timesCorrect": 0,
+      "nextReview": 1778762688431,
+      "timesReviewed": 1,
+      "timesCorrect": 1,
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1778588429911,
-      "updatedAt": 1778588490425,
+      "updatedAt": 1778589888431,
       "data": {
-        "currentInterval": 1
+        "currentInterval": 2
       }
     },
     "ir_mp2lmno8_cxj077": {
@@ -59,15 +59,15 @@
       "sliceRule": "heading",
       "autoSliceKey": "heading:2:指令格式:0",
       "priority": 5,
-      "nextReview": 0,
-      "timesReviewed": 0,
-      "timesCorrect": 0,
+      "nextReview": 1778762691230,
+      "timesReviewed": 1,
+      "timesCorrect": 1,
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1778588429911,
-      "updatedAt": 1778588490425,
+      "updatedAt": 1778589891230,
       "data": {
-        "currentInterval": 1
+        "currentInterval": 2
       }
     },
     "ir_mp2lmno8_4aryfp": {
@@ -93,15 +93,15 @@
       "sliceRule": "heading",
       "autoSliceKey": "heading:2:定长操作码:0",
       "priority": 5,
-      "nextReview": 0,
-      "timesReviewed": 0,
-      "timesCorrect": 0,
+      "nextReview": 1778762691896,
+      "timesReviewed": 1,
+      "timesCorrect": 1,
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1778588429911,
-      "updatedAt": 1778588490425,
+      "updatedAt": 1778589891896,
       "data": {
-        "currentInterval": 1
+        "currentInterval": 2
       }
     },
     "ir_mp2lmno8_q46wi3": {
@@ -127,15 +127,15 @@
       "sliceRule": "heading",
       "autoSliceKey": "heading:2:扩展操作码:0",
       "priority": 5,
-      "nextReview": 0,
-      "timesReviewed": 0,
-      "timesCorrect": 0,
+      "nextReview": 1778762692731,
+      "timesReviewed": 1,
+      "timesCorrect": 1,
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1778588429911,
-      "updatedAt": 1778588490425,
+      "updatedAt": 1778589892731,
       "data": {
-        "currentInterval": 1
+        "currentInterval": 2
       }
     },
     "ir_mp2lmno8_j58px6": {
@@ -161,15 +161,15 @@
       "sliceRule": "heading",
       "autoSliceKey": "heading:2:指令寻址方式:0",
       "priority": 5,
-      "nextReview": 0,
-      "timesReviewed": 0,
-      "timesCorrect": 0,
+      "nextReview": 1778762698296,
+      "timesReviewed": 1,
+      "timesCorrect": 1,
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1778588429911,
-      "updatedAt": 1778588490425,
+      "updatedAt": 1778589898296,
       "data": {
-        "currentInterval": 1
+        "currentInterval": 2
       }
     },
     "ir_mp2lmno8_p3o0f1": {
@@ -195,15 +195,15 @@
       "sliceRule": "heading",
       "autoSliceKey": "heading:2:汇编:0",
       "priority": 5,
-      "nextReview": 0,
-      "timesReviewed": 0,
-      "timesCorrect": 0,
+      "nextReview": 1778762701496,
+      "timesReviewed": 1,
+      "timesCorrect": 1,
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1778588429911,
-      "updatedAt": 1778588490425,
+      "updatedAt": 1778589901496,
       "data": {
-        "currentInterval": 1
+        "currentInterval": 2
       }
     },
     "ir_mp2lmno8_j9rwg8": {
@@ -229,15 +229,15 @@
       "sliceRule": "heading",
       "autoSliceKey": "heading:2:过程调用:0",
       "priority": 5,
-      "nextReview": 0,
-      "timesReviewed": 0,
-      "timesCorrect": 0,
+      "nextReview": 1778762703378,
+      "timesReviewed": 1,
+      "timesCorrect": 1,
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1778588429911,
-      "updatedAt": 1778588490425,
+      "updatedAt": 1778589903378,
       "data": {
-        "currentInterval": 1
+        "currentInterval": 2
       }
     },
     "ir_mp2lmno8_q022k7": {
@@ -263,21 +263,25 @@
       "sliceRule": "heading",
       "autoSliceKey": "heading:2:CISC和RISC:0",
       "priority": 5,
-      "nextReview": 0,
-      "timesReviewed": 0,
-      "timesCorrect": 0,
+      "nextReview": 1778762703809,
+      "timesReviewed": 1,
+      "timesCorrect": 1,
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1778588429911,
-      "updatedAt": 1778588490425,
+      "updatedAt": 1778589903809,
       "data": {
-        "currentInterval": 1
+        "currentInterval": 2
       }
     }
   },
   "reviewedCounts": {
     "2026-05-12:计算机组成原理/指令与CPU": {
       "new": 7,
+      "due": 0
+    },
+    "2026-05-12:计算机组成原理": {
+      "new": 8,
       "due": 0
     }
   },
@@ -505,43 +509,43 @@
       "pathHint": "计算机组成原理/指令与CPU.md"
     },
     "ir_mp2lmno8_qgjlrs": {
-      "updatedAt": "2026-05-12T12:21:30.425Z",
+      "updatedAt": "2026-05-12T12:44:48.434Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/指令与CPU.md"
     },
     "ir_mp2lmno8_cxj077": {
-      "updatedAt": "2026-05-12T12:21:30.425Z",
+      "updatedAt": "2026-05-12T12:44:51.233Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/指令与CPU.md"
     },
     "ir_mp2lmno8_4aryfp": {
-      "updatedAt": "2026-05-12T12:21:30.425Z",
+      "updatedAt": "2026-05-12T12:44:51.899Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/指令与CPU.md"
     },
     "ir_mp2lmno8_q46wi3": {
-      "updatedAt": "2026-05-12T12:21:30.425Z",
+      "updatedAt": "2026-05-12T12:44:52.733Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/指令与CPU.md"
     },
     "ir_mp2lmno8_j58px6": {
-      "updatedAt": "2026-05-12T12:21:30.425Z",
+      "updatedAt": "2026-05-12T12:44:58.299Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/指令与CPU.md"
     },
     "ir_mp2lmno8_p3o0f1": {
-      "updatedAt": "2026-05-12T12:21:30.425Z",
+      "updatedAt": "2026-05-12T12:45:01.498Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/指令与CPU.md"
     },
     "ir_mp2lmno8_j9rwg8": {
-      "updatedAt": "2026-05-12T12:21:30.425Z",
+      "updatedAt": "2026-05-12T12:45:03.382Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/指令与CPU.md"
