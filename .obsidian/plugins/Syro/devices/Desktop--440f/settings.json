@@ -76,6 +76,18 @@
         ],
         "allHeadingLevels": false,
         "headingLevel": 2
+      },
+      "计算机组成原理/存储系统.md": {
+        "sourcePath": "计算机组成原理/存储系统.md",
+        "rule": "heading",
+        "enabled": true,
+        "createdAt": 1778652319683,
+        "updatedAt": 1778652319683,
+        "headingLevels": [
+          2
+        ],
+        "allHeadingLevels": false,
+        "headingLevel": 2
       }
     },
     "weightedMultiplierSettings": {
@@ -142,6 +154,6 @@
     "timelineEnableDurationPrefixSyntax": true
   },
   "updatedAtByField": {
-    "autoExtractRules": "2026-05-12T08:27:42.255Z"
+    "autoExtractRules": "2026-05-13T06:05:19.685Z"
   }
 }
