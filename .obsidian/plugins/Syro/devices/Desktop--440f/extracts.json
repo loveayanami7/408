@@ -288,7 +288,7 @@
         "endLine": 10,
         "contentHash": "a956a485adcb7",
         "ordinal": 0,
-        "sourceLength": 1667
+        "sourceLength": 1736
       },
       "rawMarkdown": "## 存储器分类",
       "memo": "",
@@ -303,7 +303,7 @@
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1778652319689,
-      "updatedAt": 1778849153271,
+      "updatedAt": 1778853422429,
       "data": {
         "currentInterval": 1
       }
@@ -322,7 +322,7 @@
         "endLine": 15,
         "contentHash": "c1aa1e3c8a6c9",
         "ordinal": 1,
-        "sourceLength": 1667
+        "sourceLength": 1736
       },
       "rawMarkdown": "## 性能指标",
       "memo": "",
@@ -337,7 +337,7 @@
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1778652319689,
-      "updatedAt": 1778849153271,
+      "updatedAt": 1778853422429,
       "data": {
         "currentInterval": 1
       }
@@ -356,7 +356,7 @@
         "endLine": 40,
         "contentHash": "1948981d4fe89",
         "ordinal": 2,
-        "sourceLength": 1667
+        "sourceLength": 1736
       },
       "rawMarkdown": "## 主存",
       "memo": "",
@@ -371,7 +371,7 @@
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1778652319689,
-      "updatedAt": 1778849153271,
+      "updatedAt": 1778853422429,
       "data": {
         "currentInterval": 1
       }
@@ -390,7 +390,7 @@
         "endLine": 63,
         "contentHash": "8a6d26f5cf879",
         "ordinal": 4,
-        "sourceLength": 1667
+        "sourceLength": 1736
       },
       "rawMarkdown": "## 多模块存储器",
       "memo": "",
@@ -405,7 +405,7 @@
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1778652319689,
-      "updatedAt": 1778849153271,
+      "updatedAt": 1778853422429,
       "data": {
         "currentInterval": 1
       }
@@ -424,7 +424,7 @@
         "endLine": 71,
         "contentHash": "172a6769bd1c18",
         "ordinal": 5,
-        "sourceLength": 1667
+        "sourceLength": 1736
       },
       "rawMarkdown": "## 主存与CPU连接",
       "memo": "",
@@ -439,7 +439,7 @@
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1778652319689,
-      "updatedAt": 1778849153271,
+      "updatedAt": 1778853422429,
       "data": {
         "currentInterval": 1
       }
@@ -458,7 +458,7 @@
         "endLine": 75,
         "contentHash": "104b6e4f0af97a",
         "ordinal": 6,
-        "sourceLength": 1667
+        "sourceLength": 1736
       },
       "rawMarkdown": "## 主存容量扩展",
       "memo": "",
@@ -473,7 +473,7 @@
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1778652319689,
-      "updatedAt": 1778849153271,
+      "updatedAt": 1778853422429,
       "data": {
         "currentInterval": 1
       }
@@ -492,7 +492,7 @@
         "endLine": 78,
         "contentHash": "1a3529e0681171",
         "ordinal": 7,
-        "sourceLength": 1667
+        "sourceLength": 1736
       },
       "rawMarkdown": "## 外存",
       "memo": "",
@@ -507,7 +507,7 @@
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1778652319689,
-      "updatedAt": 1778849153271,
+      "updatedAt": 1778853422429,
       "data": {
         "currentInterval": 1
       }
@@ -526,7 +526,7 @@
         "endLine": 88,
         "contentHash": "b5547048b1826",
         "ordinal": 8,
-        "sourceLength": 1667
+        "sourceLength": 1736
       },
       "rawMarkdown": "## cache",
       "memo": "",
@@ -541,7 +541,7 @@
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1778652319689,
-      "updatedAt": 1778849153271,
+      "updatedAt": 1778853422429,
       "data": {
         "currentInterval": 1
       }
@@ -553,14 +553,14 @@
       "sourcePath": "计算机组成原理/存储系统.md",
       "sourceAnchor": {
         "start": 1658,
-        "end": 1667,
+        "end": 1736,
         "innerStart": 1658,
-        "innerEnd": 1667,
+        "innerEnd": 1736,
         "startLine": 88,
-        "endLine": 90,
-        "contentHash": "5f8f87498252",
+        "endLine": 98,
+        "contentHash": "1aaf40530b6dc8",
         "ordinal": 9,
-        "sourceLength": 1667
+        "sourceLength": 1736
       },
       "rawMarkdown": "## 虚拟存储",
       "memo": "",
@@ -575,7 +575,7 @@
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1778652319689,
-      "updatedAt": 1778849153271,
+      "updatedAt": 1778853422429,
       "data": {
         "currentInterval": 1
       }
@@ -594,7 +594,7 @@
         "endLine": 45,
         "contentHash": "fb1eeedb1c2bb",
         "ordinal": 3,
-        "sourceLength": 1667
+        "sourceLength": 1736
       },
       "rawMarkdown": "## ROM",
       "memo": "",
@@ -609,7 +609,7 @@
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1778831897540,
-      "updatedAt": 1778849153271,
+      "updatedAt": 1778853422429,
       "data": {
         "currentInterval": 1
       }
@@ -903,37 +903,37 @@
       "pathHint": "计算机组成原理/指令与CPU.md"
     },
     "ir_mp3no1c9_pb78lq": {
-      "updatedAt": "2026-05-15T12:45:53.272Z",
+      "updatedAt": "2026-05-15T13:57:02.430Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/存储系统.md"
     },
     "ir_mp3no1c9_0d4gew": {
-      "updatedAt": "2026-05-15T12:45:53.272Z",
+      "updatedAt": "2026-05-15T13:57:02.430Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/存储系统.md"
     },
     "ir_mp3no1c9_oz7g73": {
-      "updatedAt": "2026-05-15T12:45:53.272Z",
+      "updatedAt": "2026-05-15T13:57:02.430Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/存储系统.md"
     },
     "ir_mp3no1c9_pi4i95": {
-      "updatedAt": "2026-05-15T12:45:53.272Z",
+      "updatedAt": "2026-05-15T13:57:02.430Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/存储系统.md"
     },
     "ir_mp3no1c9_3wfeai": {
-      "updatedAt": "2026-05-15T12:45:53.272Z",
+      "updatedAt": "2026-05-15T13:57:02.430Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/存储系统.md"
     },
     "ir_mp3no1c9_4dl1hg": {
-      "updatedAt": "2026-05-15T12:45:53.272Z",
+      "updatedAt": "2026-05-15T13:57:02.430Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/存储系统.md"
@@ -945,25 +945,25 @@
       "pathHint": "计算机组成原理/存储系统.md"
     },
     "ir_mp3no1c9_7axef7": {
-      "updatedAt": "2026-05-15T12:45:53.272Z",
+      "updatedAt": "2026-05-15T13:57:02.430Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/存储系统.md"
     },
     "ir_mp3no1c9_d3yzqi": {
-      "updatedAt": "2026-05-15T12:45:53.272Z",
+      "updatedAt": "2026-05-15T13:57:02.430Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/存储系统.md"
     },
     "ir_mp3no1c9_78oh46": {
-      "updatedAt": "2026-05-15T12:45:53.272Z",
+      "updatedAt": "2026-05-15T13:57:02.430Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/存储系统.md"
     },
     "ir_mp6ml0hx_n3ayow": {
-      "updatedAt": "2026-05-15T12:45:53.272Z",
+      "updatedAt": "2026-05-15T13:57:02.430Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "计算机组成原理/存储系统.md"
