@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "buryDate": "2026-05-13",
+  "buryDate": "2026-05-25",
   "buryList": [],
   "dailyDeckStats": {
     "date": "2026-05-12",
@@ -10,6 +10,7 @@
   "appliedOpIds": {
     "daily-op:2026-05-12T08:09:55.544Z:0:rollover-reset": "2026-05-12T08:09:55.544Z",
     "daily-op:daily-state:fb4394ab-389b-4f57-903f-d9ff9fcced06:0:rollover-reset": "2026-05-12T08:19:04.473Z",
-    "daily-op:2026-05-13T04:06:49.589Z:0:rollover-reset": "2026-05-13T04:06:49.589Z"
+    "daily-op:2026-05-13T04:06:49.589Z:0:rollover-reset": "2026-05-13T04:06:49.589Z",
+    "daily-op:2026-05-25T10:46:16.323Z:0:rollover-reset": "2026-05-25T10:46:16.323Z"
   }
 }
