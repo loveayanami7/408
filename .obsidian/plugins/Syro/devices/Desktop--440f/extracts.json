@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "nextItemId": 72,
+  "nextItemId": 75,
   "items": {
     "ir_mp2lmno8_qgjlrs": {
       "id": 38,
@@ -858,15 +858,15 @@
       "aliases": [],
       "sourcePath": "数据结构/查找.md",
       "sourceAnchor": {
-        "start": 0,
-        "end": 8,
-        "innerStart": 0,
-        "innerEnd": 8,
-        "startLine": 0,
-        "endLine": 1,
+        "start": 13,
+        "end": 21,
+        "innerStart": 13,
+        "innerEnd": 21,
+        "startLine": 1,
+        "endLine": 2,
         "contentHash": "103fae56caf3b1",
-        "ordinal": 0,
-        "sourceLength": 65
+        "ordinal": 1,
+        "sourceLength": 78
       },
       "rawMarkdown": "## 顺序查找",
       "memo": "",
@@ -881,7 +881,7 @@
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1779282674078,
-      "updatedAt": 1779282674078,
+      "updatedAt": 1779774629920,
       "data": {
         "currentInterval": 1
       }
@@ -892,15 +892,15 @@
       "aliases": [],
       "sourcePath": "数据结构/查找.md",
       "sourceAnchor": {
-        "start": 8,
-        "end": 16,
-        "innerStart": 8,
-        "innerEnd": 16,
-        "startLine": 1,
-        "endLine": 2,
+        "start": 21,
+        "end": 29,
+        "innerStart": 21,
+        "innerEnd": 29,
+        "startLine": 2,
+        "endLine": 3,
         "contentHash": "53d5d4441bce2",
-        "ordinal": 1,
-        "sourceLength": 65
+        "ordinal": 2,
+        "sourceLength": 78
       },
       "rawMarkdown": "## 折半查找",
       "memo": "",
@@ -915,7 +915,7 @@
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1779282674078,
-      "updatedAt": 1779282674078,
+      "updatedAt": 1779774629920,
       "data": {
         "currentInterval": 1
       }
@@ -926,15 +926,15 @@
       "aliases": [],
       "sourcePath": "数据结构/查找.md",
       "sourceAnchor": {
-        "start": 16,
-        "end": 29,
-        "innerStart": 16,
-        "innerEnd": 29,
-        "startLine": 2,
-        "endLine": 3,
+        "start": 29,
+        "end": 42,
+        "innerStart": 29,
+        "innerEnd": 42,
+        "startLine": 3,
+        "endLine": 4,
         "contentHash": "f04de0fcc683d",
-        "ordinal": 2,
-        "sourceLength": 65
+        "ordinal": 3,
+        "sourceLength": 78
       },
       "rawMarkdown": "## BST 二叉搜索树",
       "memo": "",
@@ -949,7 +949,7 @@
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1779282674078,
-      "updatedAt": 1779282674078,
+      "updatedAt": 1779774629920,
       "data": {
         "currentInterval": 1
       }
@@ -960,15 +960,15 @@
       "aliases": [],
       "sourcePath": "数据结构/查找.md",
       "sourceAnchor": {
-        "start": 29,
-        "end": 42,
-        "innerStart": 29,
-        "innerEnd": 42,
-        "startLine": 3,
-        "endLine": 4,
+        "start": 42,
+        "end": 55,
+        "innerStart": 42,
+        "innerEnd": 55,
+        "startLine": 4,
+        "endLine": 5,
         "contentHash": "1ad71d36e9b1a3",
-        "ordinal": 3,
-        "sourceLength": 65
+        "ordinal": 4,
+        "sourceLength": 78
       },
       "rawMarkdown": "## AVL 平衡二叉树",
       "memo": "",
@@ -983,7 +983,7 @@
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1779282674078,
-      "updatedAt": 1779282674078,
+      "updatedAt": 1779774629920,
       "data": {
         "currentInterval": 1
       }
@@ -994,15 +994,15 @@
       "aliases": [],
       "sourcePath": "数据结构/查找.md",
       "sourceAnchor": {
-        "start": 42,
-        "end": 49,
-        "innerStart": 42,
-        "innerEnd": 49,
-        "startLine": 4,
-        "endLine": 5,
+        "start": 55,
+        "end": 62,
+        "innerStart": 55,
+        "innerEnd": 62,
+        "startLine": 5,
+        "endLine": 6,
         "contentHash": "678c1da45c61",
-        "ordinal": 4,
-        "sourceLength": 65
+        "ordinal": 5,
+        "sourceLength": 78
       },
       "rawMarkdown": "## 红黑树",
       "memo": "",
@@ -1017,7 +1017,7 @@
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1779282674078,
-      "updatedAt": 1779282674078,
+      "updatedAt": 1779774629920,
       "data": {
         "currentInterval": 1
       }
@@ -1028,15 +1028,15 @@
       "aliases": [],
       "sourcePath": "数据结构/查找.md",
       "sourceAnchor": {
-        "start": 49,
-        "end": 58,
-        "innerStart": 49,
-        "innerEnd": 58,
-        "startLine": 5,
-        "endLine": 6,
+        "start": 62,
+        "end": 71,
+        "innerStart": 62,
+        "innerEnd": 71,
+        "startLine": 6,
+        "endLine": 7,
         "contentHash": "1c8e51f23390e9",
-        "ordinal": 5,
-        "sourceLength": 65
+        "ordinal": 6,
+        "sourceLength": 78
       },
       "rawMarkdown": "## B/B+树",
       "memo": "",
@@ -1051,7 +1051,7 @@
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1779282674078,
-      "updatedAt": 1779282674078,
+      "updatedAt": 1779774629920,
       "data": {
         "currentInterval": 1
       }
@@ -1062,15 +1062,15 @@
       "aliases": [],
       "sourcePath": "数据结构/查找.md",
       "sourceAnchor": {
-        "start": 58,
-        "end": 65,
-        "innerStart": 58,
-        "innerEnd": 65,
-        "startLine": 6,
-        "endLine": 7,
+        "start": 71,
+        "end": 78,
+        "innerStart": 71,
+        "innerEnd": 78,
+        "startLine": 7,
+        "endLine": 8,
         "contentHash": "191a58044706ec",
-        "ordinal": 6,
-        "sourceLength": 65
+        "ordinal": 7,
+        "sourceLength": 78
       },
       "rawMarkdown": "## 散列表",
       "memo": "",
@@ -1085,7 +1085,41 @@
       "errorStreak": 0,
       "stage": "active",
       "createdAt": 1779282674078,
-      "updatedAt": 1779282674078,
+      "updatedAt": 1779774629920,
+      "data": {
+        "currentInterval": 1
+      }
+    },
+    "ir_mpm7v1gg_r25rve": {
+      "id": 74,
+      "uuid": "ir_mpm7v1gg_r25rve",
+      "aliases": [],
+      "sourcePath": "数据结构/查找.md",
+      "sourceAnchor": {
+        "start": 0,
+        "end": 13,
+        "innerStart": 0,
+        "innerEnd": 13,
+        "startLine": 0,
+        "endLine": 1,
+        "contentHash": "7b7388bb22182",
+        "ordinal": 0,
+        "sourceLength": 78
+      },
+      "rawMarkdown": "## ASL平均查找长度",
+      "memo": "",
+      "deckName": "数据结构/查找",
+      "sourceMode": "auto-slice",
+      "sliceRule": "heading",
+      "autoSliceKey": "heading:2:ASL平均查找长度:0",
+      "priority": 5,
+      "nextReview": 0,
+      "timesReviewed": 0,
+      "timesCorrect": 0,
+      "errorStreak": 0,
+      "stage": "active",
+      "createdAt": 1779774629920,
+      "updatedAt": 1779774629920,
       "data": {
         "currentInterval": 1
       }
@@ -1487,43 +1521,61 @@
       "pathHint": "数据结构/数据结构及其基本操作.md"
     },
     "ir_mpe2ypwe_xv51sm": {
-      "updatedAt": "2026-05-20T13:11:14.078Z",
+      "updatedAt": "2026-05-26T05:50:29.920Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "数据结构/查找.md"
     },
     "ir_mpe2ypwe_eigoa7": {
-      "updatedAt": "2026-05-20T13:11:14.078Z",
+      "updatedAt": "2026-05-26T05:50:29.920Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "数据结构/查找.md"
     },
     "ir_mpe2ypwe_hia4om": {
-      "updatedAt": "2026-05-20T13:11:14.078Z",
+      "updatedAt": "2026-05-26T05:50:29.920Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "数据结构/查找.md"
     },
     "ir_mpe2ypwe_no76mh": {
-      "updatedAt": "2026-05-20T13:11:14.078Z",
+      "updatedAt": "2026-05-26T05:50:29.920Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "数据结构/查找.md"
     },
     "ir_mpe2ypwe_kqqddj": {
-      "updatedAt": "2026-05-20T13:11:14.078Z",
+      "updatedAt": "2026-05-26T05:50:29.920Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "数据结构/查找.md"
     },
     "ir_mpe2ypwe_jxnqrk": {
-      "updatedAt": "2026-05-20T13:11:14.078Z",
+      "updatedAt": "2026-05-26T05:50:29.920Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "数据结构/查找.md"
     },
     "ir_mpe2ypwe_hvtck4": {
-      "updatedAt": "2026-05-20T13:11:14.078Z",
+      "updatedAt": "2026-05-26T05:50:29.920Z",
+      "deleted": false,
+      "entityType": "extract-item",
+      "pathHint": "数据结构/查找.md"
+    },
+    "ir_mpm7uya0_xonzpv": {
+      "updatedAt": "2026-05-26T05:50:27.905Z",
+      "deleted": true,
+      "entityType": "extract-item",
+      "pathHint": "数据结构/查找.md"
+    },
+    "ir_mpm7uzwh_6b030u": {
+      "updatedAt": "2026-05-26T05:50:29.920Z",
+      "deleted": true,
+      "entityType": "extract-item",
+      "pathHint": "数据结构/查找.md"
+    },
+    "ir_mpm7v1gg_r25rve": {
+      "updatedAt": "2026-05-26T05:50:29.920Z",
       "deleted": false,
       "entityType": "extract-item",
       "pathHint": "数据结构/查找.md"
