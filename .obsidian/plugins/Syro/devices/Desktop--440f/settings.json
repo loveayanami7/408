@@ -177,7 +177,5 @@
     "timelineAutoCommitReviewSelection": true,
     "timelineEnableDurationPrefixSyntax": true
   },
-  "updatedAtByField": {
-    "autoExtractRules": "2026-05-20T13:11:14.075Z"
-  }
+  "updatedAtByField": {}
 }
