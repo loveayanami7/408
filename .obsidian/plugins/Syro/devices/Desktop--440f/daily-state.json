@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "buryDate": "2026-06-04",
+  "buryDate": "2026-06-07",
   "buryList": [],
   "dailyDeckStats": {
     "date": "2026-05-12",
@@ -8,7 +8,7 @@
   },
   "deviceReviewCount": 0,
   "appliedOpIds": {
-    "daily-op:2026-05-25T10:46:16.323Z:0:rollover-reset": "2026-05-25T10:46:16.323Z",
-    "daily-op:2026-06-04T02:11:12.471Z:0:rollover-reset": "2026-06-04T02:11:12.471Z"
+    "daily-op:2026-06-04T02:11:12.471Z:0:rollover-reset": "2026-06-04T02:11:12.471Z",
+    "daily-op:2026-06-07T10:01:38.322Z:0:rollover-reset": "2026-06-07T10:01:38.322Z"
   }
 }
