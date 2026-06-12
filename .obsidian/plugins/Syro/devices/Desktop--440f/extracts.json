@@ -1340,66 +1340,6 @@
     }
   },
   "syncEntities": {
-    "ir_mpe2ypwe_xv51sm": {
-      "updatedAt": "2026-05-26T05:50:29.920Z",
-      "deleted": false,
-      "entityType": "extract-item",
-      "pathHint": "数据结构/查找.md"
-    },
-    "ir_mpe2ypwe_eigoa7": {
-      "updatedAt": "2026-05-26T05:50:29.920Z",
-      "deleted": false,
-      "entityType": "extract-item",
-      "pathHint": "数据结构/查找.md"
-    },
-    "ir_mpe2ypwe_hia4om": {
-      "updatedAt": "2026-05-26T05:50:29.920Z",
-      "deleted": false,
-      "entityType": "extract-item",
-      "pathHint": "数据结构/查找.md"
-    },
-    "ir_mpe2ypwe_no76mh": {
-      "updatedAt": "2026-05-26T05:50:29.920Z",
-      "deleted": false,
-      "entityType": "extract-item",
-      "pathHint": "数据结构/查找.md"
-    },
-    "ir_mpe2ypwe_kqqddj": {
-      "updatedAt": "2026-05-26T05:50:29.920Z",
-      "deleted": false,
-      "entityType": "extract-item",
-      "pathHint": "数据结构/查找.md"
-    },
-    "ir_mpe2ypwe_jxnqrk": {
-      "updatedAt": "2026-05-26T05:50:29.920Z",
-      "deleted": false,
-      "entityType": "extract-item",
-      "pathHint": "数据结构/查找.md"
-    },
-    "ir_mpe2ypwe_hvtck4": {
-      "updatedAt": "2026-05-26T05:50:29.920Z",
-      "deleted": false,
-      "entityType": "extract-item",
-      "pathHint": "数据结构/查找.md"
-    },
-    "ir_mpm7uya0_xonzpv": {
-      "updatedAt": "2026-05-26T05:50:27.905Z",
-      "deleted": true,
-      "entityType": "extract-item",
-      "pathHint": "数据结构/查找.md"
-    },
-    "ir_mpm7uzwh_6b030u": {
-      "updatedAt": "2026-05-26T05:50:29.920Z",
-      "deleted": true,
-      "entityType": "extract-item",
-      "pathHint": "数据结构/查找.md"
-    },
-    "ir_mpm7v1gg_r25rve": {
-      "updatedAt": "2026-05-26T05:50:29.920Z",
-      "deleted": false,
-      "entityType": "extract-item",
-      "pathHint": "数据结构/查找.md"
-    },
     "ir_mp2lmno8_qgjlrs": {
       "updatedAt": "2026-06-04T13:52:26.864Z",
       "deleted": false,
