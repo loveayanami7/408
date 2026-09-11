@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "buryDate": "2026-06-30",
+  "buryDate": "2026-09-11",
   "buryList": [],
   "dailyDeckStats": {
     "date": "2026-05-12",
@@ -8,7 +8,6 @@
   },
   "deviceReviewCount": 0,
   "appliedOpIds": {
-    "daily-op:2026-06-22T09:00:08.472Z:0:rollover-reset": "2026-06-22T09:00:08.472Z",
-    "daily-op:2026-06-30T14:03:40.823Z:0:rollover-reset": "2026-06-30T14:03:40.823Z"
+    "daily-op:2026-09-11T12:11:18.363Z:0:rollover-reset": "2026-09-11T12:11:18.363Z"
   }
 }
